@@ -16,6 +16,7 @@
             "princicpal": 40000,
             "periodInYears": "3",
             "rateOfInterest": 10,
+                        "isCommercial": false,
             "collateral": [
                 {
                     "assetName": "property",
